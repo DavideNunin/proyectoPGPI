@@ -11,9 +11,13 @@ Aquí hay un código para modificar:
 
 a=1
 b=2
+d=123
+c=3
 for i in range(0,1000):
     print("Hola mundo!")
     a=a+b
     b=b+a
+    c=(b-a)*3
+    d=a*b
     print("a=",a," b=",b)
 
