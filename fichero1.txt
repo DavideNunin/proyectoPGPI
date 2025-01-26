@@ -1,0 +1,19 @@
+Esto es el primero fichero de la tarea 1
+
+
+Lorem magnam optio molestias odio tenetur Ipsam quia enim et nisi perspiciatis Sequi quia harum magni consequatur porro Corrupti inventore minima ipsam nam exercitationem Nostrum culpa voluptate earum quis nobis.
+Adipisicing eveniet provident pariatur incidunt accusamus? Eos iusto officia laboriosam nostrum esse minima. Accusantium neque qui sunt ut quisquam Autem consequuntur ex nam repudiandae distinctio vitae. Aspernatur voluptatum aliquam ratione
+Elit aliquam quia perferendis assumenda vitae commodi? Voluptatibus ipsam dicta vitae laborum impedit libero Ex magni praesentium deleniti incidunt harum dignissimos? Officiis sapiente aut qui delectus tempore? Eius harum placeat
+
+Aquí hay un código para modificar:
+
+
+
+a=1
+b=2
+for i in range(0,1000):
+    print("Hola mundo!")
+    a=a+b
+    b=b+a
+    print("a=",a," b=",b)
+

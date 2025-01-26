@@ -1,0 +1,17 @@
+Esto es el segundo fichero de la tarea 1
+Consectetur neque quaerat esse eaque illo! Veniam iure porro tempore quod esse nihil? Veniam totam nulla similique laboriosam architecto distinctio, eligendi Earum tempore sapiente facilis ad sint accusantium. Maiores soluta
+Dolor adipisci atque unde a adipisci officiis? Itaque facilis hic nisi nesciunt debitis sapiente Nesciunt quibusdam tempore earum a dolores Ad porro inventore amet dolor quia. Obcaecati delectus accusantium fugiat.
+Consectetur ducimus voluptatibus officia veritatis quaerat. Delectus excepturi natus distinctio asperiores dignissimos velit! Ab porro aut atque vel omnis Doloremque voluptatem fuga facilis similique veniam porro? Repellendus in in minima
+
+
+Aquí hay un código para modificar:
+
+
+
+def fib(a):
+    if a==0:
+        return 1
+    if a ==1:
+        return 1
+    else:
+        return fib(a-1)+fib(a-2)
