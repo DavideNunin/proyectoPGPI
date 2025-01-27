@@ -15,3 +15,6 @@ def fib(a):
         return 1
     else:
         return fib(a-1)+fib(a-2)
+
+c=4
+print(fib(c))
