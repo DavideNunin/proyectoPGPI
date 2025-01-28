@@ -13,6 +13,12 @@ a=7
 b=2
 for i in range(0,100):
     print("Hola mundo!")
-    a=a+b
     b=b+a
+    b=b*b
     print("a=",a," b=",b)
+
+
+
+def otra_funcion(n):
+    for i in range(0,n/2):
+        print("Adios mundo!!!")
