@@ -9,9 +9,9 @@ Aquí hay un código para modificar:
 
 
 
-a=1
+a=7
 b=2
-for i in range(0,1000):
+for i in range(0,100):
     print("Hola mundo!")
     a=a+b
     b=b+a
