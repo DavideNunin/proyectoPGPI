@@ -9,10 +9,10 @@ Aquí hay un código para modificar:
 
 
 
-a=1
+a=5
 b=2
 for i in range(0,1000):
     print("Hola mundo!")
     a=a+b
-    b=b+a
+    b=b+a*2
     print("a=",a," b=",b)
