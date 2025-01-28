@@ -12,7 +12,8 @@ Aquí hay un código para modificar:
 a=1
 b=2
 for i in range(0,1000):
-    print("Hola mundo!")
+    print("Hola mundo!")            # este es un comentario
     a=a+b
     b=b+a
+
     print("a=",a," b=",b)
