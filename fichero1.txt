@@ -19,7 +19,7 @@ c=3
 for i in range(0,1000):
     print("Hola mundo!")
     a=a+b
-    b=b+a
+    b=b-a
 <<<<<<< HEAD
 	c=c+b+a
     print("a=",a," b=",b,"c=",c)
