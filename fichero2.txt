@@ -16,5 +16,11 @@ def fib(a):
     else:
         return fib(a-1)+fib(a-2)
 
+<<<<<<< HEAD
 c=4
 print(fib(c))
+=======
+def hola_mundo_n_vezes(n):
+    for i in range(0,n):
+    print("Hola mundo!!!")
+>>>>>>> b38f995d7632bfd17ebb0a027c6308211bb3aaf7

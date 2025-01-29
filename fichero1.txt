@@ -11,11 +11,21 @@ Aquí hay un código para modificar:
 
 a=1
 b=2
+<<<<<<< HEAD
+=======
+d=123
+>>>>>>> b38f995d7632bfd17ebb0a027c6308211bb3aaf7
 c=3
 for i in range(0,1000):
     print("Hola mundo!")
     a=a+b
     b=b+a
+<<<<<<< HEAD
 	c=c+b+a
     print("a=",a," b=",b,"c=",c)
+=======
+    c=(b-a)*3
+    d=a*b
+    print("a=",a," b=",b)
+>>>>>>> b38f995d7632bfd17ebb0a027c6308211bb3aaf7
 
